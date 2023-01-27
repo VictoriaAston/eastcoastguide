@@ -16,7 +16,8 @@ A User will be able to view a directory of restaurants from two regions: Massach
 -Python <br>
 -PostgreSQL <br>
 -Github <br>
--CSS / Materialize <br>
+-CSS <br>
+-Materialize <br>
 -Heroku <br>
 
 
@@ -28,8 +29,7 @@ https://trello.com/b/YJ8ny3Js/travel-app
 ## Major Hurdles:
 
 - Dealing with merging errors in Github <br>
-- Errors with the database when making chnages to Models <br>
-- Github as a whole <br>
+- Errors with the database when making changes to Models <br>
 
 
 ## Ice Box Items:
