@@ -36,9 +36,9 @@ https://trello.com/b/YJ8ny3Js/travel-app
 
 - Support for activites and attractions <br>
 - Expansion to all US States <br>
-- UI/Design tweaks <br>
 - Responsive design <br>
 - API integrations <br>
+- Make the images dynamic <br>
 
 ## Wireframes
 ![Alt text](https://i.imgur.com/UVBVp48.png "Wireframes")
