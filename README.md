@@ -43,5 +43,3 @@ https://trello.com/b/YJ8ny3Js/travel-app
 ## Wireframes
 ![Alt text](https://i.imgur.com/UVBVp48.png "Wireframes")
 
-## Entity Relationship Diagram
-![Alt text](https://i.imgur.com/Ql1uMBy.png "ERD")
