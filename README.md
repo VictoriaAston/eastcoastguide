@@ -14,7 +14,7 @@ A User will be able to view a directory of restaurants from two regions: Massach
 
 -Django Framework <br>
 -Python <br>
--PostgreSQL <br>
+-MongoDB <br>
 -Github <br>
 -CSS <br>
 -Materialize <br>
